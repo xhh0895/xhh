@@ -9,7 +9,7 @@
 
 	<properties>
 		<jdk.version>1.8</jdk.version>
-		<fastjson.version>1.2.74</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<nacos.version>1.8</nacos.version>
 		<spring.boot.version>1.8</spring.boot.version>
 		<spring.cloud.version>1.8</spring.cloud.version>
